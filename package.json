@@ -1,0 +1,12 @@
+{
+  "name": "gan-ui",
+  "version": "1.0.3",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository":"https://github.com/luo772435545/gan-ui.git",
+  "author": "gan",
+  "license": "ISC"
+}
